@@ -51,7 +51,7 @@
 				<script src="https://accounts.google.com/gsi/client" async defer></script>
                         <div id="g_id_onload"
                             data-client_id="751091202415-bifr539domsp9ejao1qijki0br1adsh9.apps.googleusercontent.com"
-                            data-login_uri="http://localhost:8080/wifi/login.php"
+                            data-login_uri="https://ec2-54-233-98-76.sa-east-1.compute.amazonaws.com/guest/s/d6kf4are/captiveportal/login.php"
                             data-auto_prompt="false">
                         </div>
                         <div class="g_id_signin"
